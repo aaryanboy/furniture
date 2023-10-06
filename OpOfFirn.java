@@ -5,6 +5,5 @@ public class OpOfFirn{
         chare c1= new chare(10.1f,10);
         c1.printit();
 
-
     }
 }
